@@ -15,3 +15,4 @@ barplot(sumEmissions, xlab = "Year", ylab = "Total Yearly Emissions (tons)", mai
 #Save Plot
 dev.copy(png, file="plot2.png", height=480, width=480)
 dev.off()
+ 
